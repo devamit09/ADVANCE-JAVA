@@ -1,2 +1,2 @@
 # ADVANCE-JAVA
-This repository features Advanced Java programs and projects, focusing on topics such as JDBC, Servlets, JSP, Hibernate, Spring Framework, and RESTful web services. It is designed for developers looking to enhance their Java skills with enterprise-level applications and frameworks.
+This repository contains self-practice projects and programs focused on Advanced Java topics, including JDBC, Servlets, JSP, Hibernate, and Spring Framework. It is aimed at enhancing expertise in building enterprise-level applications and mastering advanced Java technologies.
